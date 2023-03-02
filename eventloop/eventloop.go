@@ -5,9 +5,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/console"
-	"github.com/dop251/goja_nodejs/require"
+	"github.com/link-duan/goja"
+	"github.com/link-duan/goja_nodejs/console"
+	"github.com/link-duan/goja_nodejs/require"
 )
 
 type job struct {
